@@ -1,0 +1,19 @@
+{
+  "name": "event-noted",
+  "version": "0.0.1",
+  "description": "eventNoted will be a simple class for JavaScript that tracks events and logs them.  The idea here will be to log them either with AJAX for a browser script or to a local file using node.",
+  "main": "enote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShellVII/eventNoted.git"
+  },
+  "author": "Jon Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShellVII/eventNoted/issues"
+  },
+  "homepage": "https://github.com/ShellVII/eventNoted#readme"
+}
